@@ -1,4 +1,4 @@
-django<2.0
+django==2.0.3
 djangorestframework==3.6.3
 pycountry>=16.11.08
 django-fsm>=2.3.0
